@@ -1,0 +1,4 @@
+project_id = "easy-note"
+
+[functions.classify]
+verify_jwt = false
